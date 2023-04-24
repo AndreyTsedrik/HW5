@@ -26,4 +26,4 @@ for (int j = 0; j < numbers.Length; j++)
 if (numbers[j] % 2 == 0)
 count++;
 
-Console.WriteLine($"{count} чисел четные чётные");
+Console.WriteLine($"{count} чисел четные");
